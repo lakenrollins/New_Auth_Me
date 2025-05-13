@@ -1,5 +1,3 @@
-
-
 # Air-BnB (Project Name)
 
 ## Database Schema Design
